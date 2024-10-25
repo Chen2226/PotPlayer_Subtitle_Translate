@@ -6,6 +6,7 @@
   * 腾讯翻译API接口免费翻译额度：500万字符免费/每月
   * 阿里云翻译API接口免费翻译额度：100万字符免费/每月
   * 小牛翻译API接口免费翻译额度： 20万字符免费/每日（相当于于600万免费每月）
+  * 火山翻译API接口免费翻译额度：200万字符免费/每月
 
 **插件放置位置：PotPlayer安装位置\Extension\Subtitle\Translate**
 
@@ -51,9 +52,12 @@
 
    
 
+### 火山翻译
 
+1. [登录](https://console.volcengine.com/translate/usage)认证后开通服务
+2. 开通好之后点击右上角头像 ->Api访问密钥
 
-
+![图片8](https://alist.cutil.top/d/onedrive/img/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20241025153719.png?sign=umcncJ7Saibb60sFPmC2dEQxK-w0JRsI0W3fHdyY1d4=:0)
 
 
 
