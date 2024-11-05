@@ -88,6 +88,8 @@ string GetLang(string &in lang){
         l = "vie";
     } else if(lang == "ar"){
         l = "ara";
+    } else {
+        l = 'auto';
     }
     return l;
 }

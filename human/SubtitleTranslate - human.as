@@ -76,6 +76,8 @@ string GetLang(string &in lang){
         l = "zh";
     } else if(lang == "zh-TW"){
         l = "zh-Hant";
+    } else {
+        l = 'auto';
     }
     return l;
 }
