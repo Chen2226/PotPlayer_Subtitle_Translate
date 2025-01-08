@@ -29,7 +29,7 @@
 
 1. [登录](https://cloud.tencent.com/document/product/551/35017)后认证，然后开通机器翻译服务
 2. 认证好了之后右上角头像 -> 访问控制 ->访问密钥 -> api密钥管理，新建密钥拿到的两个参数就是插件需要用到的
-注意：腾讯翻译的第一个输入框对应第一张图片中的密钥（不是appid），第二个输入框是新建密钥的时候只显示一次的那个
+3. 注意：腾讯翻译的第一个输入框对应第一张图片中的密钥（不是appid），第二个输入框是新建密钥的时候只显示一次的那个
 
 ![图片5](https://alist.cutil.top/d/onedrive/img/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20241018173303.png?sign=daSdwJ3e3akokHF0818VesPXvcWj3xr0Sy20so-Ag40=:0)
 
